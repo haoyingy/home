@@ -61,6 +61,7 @@ contact: >
 # Work Section
 
 projects:
+- {name: 'C-level Job Market Analysis', folder: 'proj-1', file: 'proj-1.html'}
 - {name: 'C-level Job Market Analysis', folder: 'proj-1', file: 'projects/executive-market-needs.html'}
 - {name: 'Johnson & Johnson Stock Price Analysis and Forecasting', folder: 'proj-2', file: 'projects/JNJ-Stock.html'}
 - {name: 'Amazon co-purchase Social Network Analysis', folder: 'proj-3', file: 'projects/Amazon-co-purchase.html'}
