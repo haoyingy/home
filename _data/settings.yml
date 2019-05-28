@@ -40,33 +40,40 @@ disqus:
 # About Section
 
 about: >
-  # Portfolio Jekyll Theme
-
-  This is a personal portfolio theme that I built from the ground up, using the [DevTips Starter Kit](http://devtipsstarterkit.com/) as a foundation for starting, and following closely the amazing tutorial by [Travis Neilson over at DevTips](https://www.youtube.com/watch?v=T6jKLsxbFg4&list=PL0CB3OvPhDA_STygmp3sDenx3UpdOMk7P). You can [check out the demo](lenpaul.github.io/portfolio-jekyll-theme/), and [fork the repository](https://github.com/LeNPaul/portfolio-jekyll-theme/fork), to get started.
+  # About
+  
+   Hi～ My name is <b>Haoying Yang</b> and I'm a graduate student at the <b>University of California, Irvine</b>, majoring in Master of Science in Business Analytics, which is a STEM Program combined <b>business</b> and <b>data science</b> enabling us to build data driven solutions under business context. 
+  <br><br>
+  Having both engineering and business education background, I have been growing huge curiosity and passion for <b>Data</b>, as I believe every business decision is science/art of Probability, and data can provide us the best vision of it. So, I started conducting in data analysis filed through hands-on projects, competitions, master studies, internships, and real-world experience. I have gained ability to build, deliver and present data-driven decisions with variety of tools such as Python, SQL, R, Tableau, Excel, alteryx, etc. 
+  <br><br>
+  Please feel free to contact me. You can find my contact details [here](https://haoyingyang.github.io/Home/pages/contact.html).
 
 contact: >
   # Contact
 
-  You may contact me [through my email](mailto:l.nguyen.paul@gmail.com) or [tweet at me](https://twitter.com/intent/tweet?text=%40paululele) if you have any questions or would like to bring up any issues.
+  Find me on any of the following platforms:
+  <br><br>
+  - LinkedIn: [eric-y](https://www.linkedin.com/in/eric-y/)<br>
+  - Github: [haoyingyang](https://github.com/haoyingyang)<br>
+  - Email: [eric.haoying.yang](eric.haoying.yang@gmail.com)
 
 #-------------------------------
 # Work Section
 
 projects:
-- {name: 'Project One', folder: 'proj-1', file: 'projects/proj-1.html'}
-- {name: 'Project Two', folder: 'proj-2', file: 'projects/proj-2.html'}
-- {name: 'Project Three', folder: 'proj-3', file: 'projects/proj-3.html'}
-- {name: 'Project Four', folder: 'proj-4', file: 'projects/proj-4.html'}
-- {name: 'Project Five', folder: 'proj-5', file: 'projects/proj-5.html'}
+- {name: 'C-level Job Market Analysis', folder: 'proj-1', file: 'projects/executive-market-needs.html'}
+- {name: 'Johnson & Johnson Stock Price Analysis and Forecasting', folder: 'proj-2', file: 'projects/JNJ-Stock.html'}
+- {name: 'Amazon co-purchase Social Network Analysis', folder: 'proj-3', file: 'projects/Amazon-co-purchase.html'}
+- {name: 'K-mean Clustering - Airline Customer Target Marketing', folder: 'proj-4', file: 'projects/customer-clustering.html'}
+- {name: 'Microsoft Kaggle Competition - Malware Prediction', folder: 'proj-5', file: 'projects/microsoft-malware.html'}
+- {name: 'Super Bowl VIII Prediction', folder: 'proj-6', file: 'projects/superbowl.html'}
 
 #-------------------------------
 # Contact Section
 
 social:
-- {icon: 'twitter', link: '#'}
-- {icon: 'instagram', link: '#'}
-- {icon: 'github', link: '#'}
-- {icon: 'linkedin', link: '#'}
-- {icon: 'envelope', link: 'mailto:#'}
+- {icon: 'linkedin', link: 'https://www.linkedin.com/in/eric-y/'}
+- {icon: 'github', link: 'https://github.com/haoyingyang'}
+- {icon: 'instagram', link: 'https://www.instagram.com/haoying_yang/'}
 
 # social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
