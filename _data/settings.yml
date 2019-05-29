@@ -67,7 +67,7 @@ projects:
 - {name: 'Amazon co-purchase Social Network Analysis', folder: 'proj-3', file: 'projects/Amazon-co-purchase.html'}
 - {name: 'K-mean Clustering - Airline Customer Target Marketing', folder: 'proj-4', file: 'projects/customer-clustering.html'}
 - {name: 'Microsoft Kaggle Competition - Malware Prediction', folder: 'proj-5', file: 'projects/microsoft-malware.html'}
-- {name: 'Super Bowl VIII Prediction', folder: 'proj-6', file: 'projects/superbowl.html'}
+- {name: 'Super Bowl LIII Prediction', folder: 'proj-6', file: 'projects/superbowl.html'}
 
 #-------------------------------
 # Contact Section
