@@ -36,7 +36,7 @@ I mainly used log_linear regression to build the model with ARIMA and ETS to pre
 ![](https://raw.githubusercontent.com/haoyingy/Home/gh-pages/assets/img/projects/proj-2/alteryx-workflow.png)
 
 Dependent variable:
-* JNJ stock price (monthly) 
+* JNJ stock price (monthly) <br>
 Independent variables:
 * GDP per capita (quarterly)
 * Income per capita (monthly)
