@@ -6,7 +6,7 @@ title: 'Amazon Co-Purchase Social Network'
 **Project Overview**
 * This project is about Amazon’s co-purchase network with over 1 million products sales record and other features
 * The goal is to analyze co-purchase data to build a social network among products and identify key metrics for sales 
-* We analyzed relationship between products by metrics such as closeness and betweenness via NetworkX in Python
+* We analyzed relationship between products by metrics such as closeness and betweenness via NetworkX in Python, and iGraph via R
 * Visualized products relationship with a net of nodes and edges via Python, showing relationships among products 
 * Identified influential metrics related to sales rank by applying Poisson Regression via GLM in R
 * Discovered relationships among over 200,000 book products; found 8 significant influential factors for book sale
