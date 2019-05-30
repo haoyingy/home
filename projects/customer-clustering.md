@@ -11,6 +11,7 @@ title: 'Airline Customer Clustering'
 * Built various dashboards and data visualization via Tableau to derive business insight and recommend solutions
 
 **Data**
+
 The data is customer historical booking information from an airline company, more details can be find [here](https://github.com/haoyingyang/AirlineCustomerClustering)
 
 **Visualization and Insight**
