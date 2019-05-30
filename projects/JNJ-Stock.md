@@ -15,6 +15,7 @@ JNJ is one of the world’s largest healthcare company. Its products fall into t
 *Medical device and diagnostic, with 36% 
 *Consumer product, with 25%
 <br><br>
+![](https://raw.githubusercontent.com/haoyingy/Home/gh-pages/assets/img/projects/proj-2/JNJ.jpg)
 **Explore Factors**
 There are external factors and internal factors which will influence JNJ stock price. As internal factors are highly related to JNJ stock price, it’s hard to make time series prediction on it, so I focused on external factors to make prediction.
 External factors for JNJ, there are two types:
@@ -45,13 +46,16 @@ Independent variables:
 **Result and Insight**
 After modeling, I planted what-if model result into Tableau, then we can build a What-if Dashboard, on which we can change our predictors and forecast date to simulate the price change. <br>
 ***what-if dashboard***
+
 ![](https://raw.githubusercontent.com/haoyingy/Home/gh-pages/assets/img/projects/proj-2/what-if-v.png)
 <br>
 The following shows the change trend line of predictors. The data is from forecast modeling using ARIMA and ETS time series models. <br>
 ***Predictors Forecast***
-![](https://raw.githubusercontent.com/haoyingy/Home/gh-pages/assets/img/projects/proj-2/predictor-forecast.png)
+
+![](https://raw.githubusercontent.com/haoyingy/Home/gh-pages/assets/img/projects/proj-2/predictor-forecast.jpg)
 <br>
 The following shows the final model forecast result. Through the model, the expected price for JNJ at the end of 2019 would be $152.00. which means 17% increase from last year. <br>
+
 ![](https://raw.githubusercontent.com/haoyingy/Home/gh-pages/assets/img/projects/proj-2/prediction.png)
 <br><br>
 
