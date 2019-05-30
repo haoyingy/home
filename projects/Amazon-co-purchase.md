@@ -18,3 +18,4 @@ The graph demonstrates 904 vertices. These 904 vertices are the book ids that co
 <br><br>
 There are two data files: “products.csv” and “copurchase.csv”. “products.csv” contains the information about the products. “copurchase.csv” contains the co-purchase information (i.e., if people bought one product, then they also co-purchased the other). link to details on Rpubs [here]. http://rpubs.com/Ericyang95/481280 Or more details on [github]('https://github.com/haoyingyang/SN')
 
+
