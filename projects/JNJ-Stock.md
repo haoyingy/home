@@ -47,19 +47,17 @@ Independent variables:
 After modeling, I planted what-if model result into Tableau, then we can build a What-if Dashboard, on which we can change our predictors and forecast date to simulate the price change. <br>
 ***what-if dashboard***
 
-![](https://raw.githubusercontent.com/haoyingy/Home/gh-pages/assets/img/projects/proj-2/what-if-v.png)
+![](https://raw.githubusercontent.com/haoyingy/Home/gh-pages/assets/img/projects/proj-2/what-if-v .png)
 <br>
 The following shows the change trend line of predictors. The data is from forecast modeling using ARIMA and ETS time series models. <br>
 ***Predictors Forecast***
 
-![](https://raw.githubusercontent.com/haoyingy/Home/gh-pages/assets/img/projects/proj-2/predictor-forecast.jpg)
+![](https://raw.githubusercontent.com/haoyingy/Home/gh-pages/assets/img/projects/proj-2/predictor-forecast.png)
 <br>
 The following shows the final model forecast result. Through the model, the expected price for JNJ at the end of 2019 would be $152.00. which means 17% increase from last year. <br>
 
-![](https://raw.githubusercontent.com/haoyingy/Home/gh-pages/assets/img/projects/proj-2/prediction.png)
+![](https://raw.githubusercontent.com/haoyingy/Home/gh-pages/assets/img/projects/proj-2/prediction.jpg)
 <br><br>
-
-
 For more details of this project, please find [here](https://github.com/haoyingyang)
 
 
