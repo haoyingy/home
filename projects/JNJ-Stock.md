@@ -10,12 +10,14 @@ title: 'JNJ Stock Price What-if Analysis and Forecasting'
 * Built forecast model with 0.84 𝑅" by using time series model ARIMA and Linear Regression model
 * Built multi-parameter and interactive Tableau dashboard for JNJ stock monthly price through 5 years till 2020
 
+Techniques and Tools used: Alteryx, Python, Excel, Tableau
+
 **Overview about JNJ (Johnson & Johnson)**
 
 JNJ is one of the world’s largest healthcare company. Its products fall into three segments: 
-*Pharmaceutical, with 39% of total sales 
-*Medical device and diagnostic, with 36% 
-*Consumer product, with 25%
+* Pharmaceutical, with 39% of total sales 
+* Medical device and diagnostic, with 36% 
+* Consumer product, with 25%
 
 ![](https://raw.githubusercontent.com/haoyingy/Home/gh-pages/assets/img/projects/proj-2/JNJ.jpg)
 **Explore Factors**
@@ -28,7 +30,7 @@ External factors for JNJ, there are two types:
 
 **Model building process**
 
-I mainly used log_linear regression to build the model with ARIMA and ETS to predict time series data. I built the prediction model and what-if model through Alteryx. More details can be find [here]
+I mainly used log_linear regression to build the model with ARIMA and ETS to predict time series data. I built the prediction model and what-if model through Alteryx. More details can be find [here](https://github.com/haoyingy/JNJ_Stock_Price)
 
 ***Alteryx Work Flow***
 ![](https://raw.githubusercontent.com/haoyingy/Home/gh-pages/assets/img/projects/proj-2/what-if.png)
@@ -63,6 +65,6 @@ The following shows the final model forecast result. Through the model, the expe
 ***JNJ Stock Price Forecast Line***
 ![](https://raw.githubusercontent.com/haoyingy/Home/gh-pages/assets/img/projects/proj-2/prediction.jpg)
 <br><br>
-For more details of this project, please find [here](https://github.com/haoyingyang)
+More details can found [here](https://github.com/haoyingyang)
 
 
