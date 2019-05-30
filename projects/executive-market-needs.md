@@ -1,10 +1,32 @@
 ---
 layout: post
-title: 'Project One'
+title: 'C-Level job market needs'
 ---
-Mauris velit metus, tempor gravida nulla eget, auctor accumsan tellus. Curabitur volutpat sed dolor quis tempus. In scelerisque aliquam felis at tincidunt. Proin non augue fringilla, [pretium justo vitae](#), maximus dui. Nunc ipsum nisi, fermentum sit amet volutpat cursus, sodales ac nisl. Quisque nec tellus sem. Cras pharetra felis non quam mollis, nec efficitur lectus aliquet. Maecenas ipsum felis, eleifend nec [semper venenatis](#), consequat ut nunc. Donec est augue, facilisis quis placerat sed, imperdiet sit amet neque. Maecenas nec risus metus. Nunc non condimentum ipsum. Phasellus consectetur dapibus massa, convallis iaculis nisi vestibulum id. Phasellus et fringilla augue. Donec consequat dui ut rutrum elementum. Aenean nisi arcu, ornare eu lacus vel, faucibus tempor tortor.
+**Project Objective**
 
-{% include image.html url="http://www.gratisography.com" image="projects/proj-1/dog.jpg" %}
+The project objective is to help an Executive-Level-HR Company to understand the job market needs better, in order to provide them insight for target marketing strategy. (e.g. which type of position is in highly need, which company is actively hiring C-level executives ) 
+<br><br>
 
-{% include image.html url="http://www.gratisography.com" image="projects/proj-1/wall.jpg" %}
+**Data**
+
+The data source is from a paid online job searching website especially targeting high level positions, which aligns our needs for Executive Level jobs. We scarped the data and cleaned it by using Chrome extension scraper and Python. A part of the data can be find [here]
+
+<br><br>
+
+**Visualization and Insight**
+After data cleaning and exploratory analysis, we visualized job market on the map via Tableau. It shows “C-Level jobs Distribution National Wide”
+
+![](https://raw.githubusercontent.com/haoyingy/Home/gh-pages/assets/img/projects/proj-1/map.png)
+
+For salary, highest avg.salary lines on Government & Non-profit and Real Estate & Construction Industry, lowest avg.salary is Telecommunication (*Only consider year of experience 11-15 and 15+ experience)
+
+![](https://raw.githubusercontent.com/haoyingy/Home/gh-pages/assets/img/projects/proj-1/avgsal.png)
+
+For different Job Preference, by doing compare analysis, “Legal” jobs tend to earn more than other jobs. And on the HR company side, they are more likely to get higher commission if they can fill more C-Level “Legal” position. 
+
+![](https://raw.githubusercontent.com/haoyingy/Home/gh-pages/assets/img/projects/proj-1/job.png)
+
+<br><br>
+
+For more analysis information and details of this project, please find [here](https://github.com/haoyingyang)
 
