@@ -16,6 +16,6 @@ title: 'Amazon Co-Purchase Social Network'
 
 The graph demonstrates 904 vertices. These 904 vertices are the book ids that connected to the book whose id = 33, directly and indirectly. Size of the vertices represents the number of vertices that connected to a vertice; the bigger of the vertice, the more vertices link to it. The distance between each vertice represents how strong the vertices connect to each other; the longer the ties, the weaker the relationship. Therefore, some vertices look like clusters in the middle with short edges, which means these books have strong connections. Some vertices are nodes on the edges, which means weaker connections. 
 <br><br>
-There are two data files: “products.csv” and “copurchase.csv”. “products.csv” contains the information about the products. “copurchase.csv” contains the co-purchase information (i.e., if people bought one product, then they also co-purchased the other). link to details on Rpubs [here]. http://rpubs.com/Ericyang95/481280 Or more details on [github]('https://github.com/haoyingyang/SN')
+There are two data files: “products.csv” and “copurchase.csv”. “products.csv” contains the information about the products. “copurchase.csv” contains the co-purchase information (i.e., if people bought one product, then they also co-purchased the other). link to details on Rpubs [here](http://rpubs.com/Ericyang95/481280) Or more details on [github]('https://github.com/haoyingyang/SN')
 
 
