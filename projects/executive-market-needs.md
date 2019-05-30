@@ -6,6 +6,8 @@ title: 'C-Level job market needs'
 
 The project objective is to help an Executive-Level-HR Company to understand the job market needs better, in order to provide them insight for target marketing strategy. (e.g. which type of position is in highly need, which company is actively hiring C-level executives ) 
 
+Techniques and tools used: Python, Excel, Tableau, Chrome Wep Scraper
+
 **Data**
 
 The data source is from a paid online job searching website especially targeting high level positions, which aligns our needs for Executive Level jobs. We scarped the data and cleaned it by using Chrome extension scraper and Python. The data can be find [here](https://github.com/haoyingyang)
