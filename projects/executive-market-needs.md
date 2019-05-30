@@ -8,7 +8,7 @@ The project objective is to help an Executive-Level-HR Company to understand the
 
 **Data**
 
-The data source is from a paid online job searching website especially targeting high level positions, which aligns our needs for Executive Level jobs. We scarped the data and cleaned it by using Chrome extension scraper and Python. A part of the data can be find [here]
+The data source is from a paid online job searching website especially targeting high level positions, which aligns our needs for Executive Level jobs. We scarped the data and cleaned it by using Chrome extension scraper and Python. The data can be find [here](https://github.com/haoyingyang)
 
 **Visualization and Insight**
 
@@ -24,5 +24,5 @@ For different Job Preference, by doing compare analysis, “Legal” jobs tend t
 
 ![](https://raw.githubusercontent.com/haoyingy/Home/gh-pages/assets/img/projects/proj-1/job.png)
 
-For more analysis information and details of this project, please find [here](https://github.com/haoyingyang)
+More project information can be find [here](https://github.com/haoyingyang)
 
