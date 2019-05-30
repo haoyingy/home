@@ -11,7 +11,8 @@ title: 'Amazon Co-Purchase Social Network'
 *Identified influential metrics related to sales rank by applying Poisson Regression via GLM in R
 *Discovered relationships among over 200,000 book products; found 8 significant influential factors for book sale
 <br><br>
-![](https://raw.githubusercontent.com/haoyingy/Home/gh-pages/assets/img/projects/proj-5/network.png)
+
+![](https://raw.githubusercontent.com/haoyingy/Home/gh-pages/assets/img/projects/proj-3/network.png)
 
 The graph demonstrates 904 vertices. These 904 vertices are the book ids that connected to the book whose id = 33, directly and indirectly. Size of the vertices represents the number of vertices that connected to a vertice; the bigger of the vertice, the more vertices link to it. The distance between each vertice represents how strong the vertices connect to each other; the longer the ties, the weaker the relationship. Therefore, some vertices look like clusters in the middle with short edges, which means these books have strong connections. Some vertices are nodes on the edges, which means weaker connections. 
 <br><br>
