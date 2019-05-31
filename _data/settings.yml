@@ -2,7 +2,7 @@
 # General Site Settings
 
 menu:
-- {name: 'Projects', url: ''}
+- {name: ' ', url: ''}
 - {name: 'About', url: 'pages/about.html'}
 - {name: 'Contact', url: 'pages/contact.html'}
 
@@ -59,7 +59,7 @@ contact: >
 #-------------------------------
 # Work Section
 
-  :
+projects:
 - {name: 'Johnson & Johnson Stock Price Analysis and Forecasting', folder: 'proj-2', file: 'projects/JNJ-Stock.html'}
 - {name: 'C-level Job Market Analysis', folder: 'proj-1', file: 'projects/executive-market-needs.html'}
 - {name: 'Machine Learning - Malware Prediction', folder: 'proj-5', file: 'projects/microsoft-malware.html'}
